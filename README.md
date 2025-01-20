@@ -12,7 +12,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ahmedanwar10)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-anwar10)  
-[![Email](https://img.shields.io/badge/Email-ahmed,anwar.rashed10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed,anwar.rashed10@gmail.com)
+[![Email](https://mail.google.com/mail/u/0/#inbox)](mailto:ahmed,anwar.rashed10@gmail.com)
 
 ---
 
@@ -31,10 +31,10 @@
 
 ## Most Used Languages
 
-![Dart](https://img.shields.io/badge/Dart-63%25-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-18%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![CMake](https://img.shields.io/badge/CMake-14%25-064F8C?style=for-the-badge&logo=cmake&logoColor=white)  
-![Swift](https://img.shields.io/badge/Swift-2%25-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-73%25-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-38%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![CMake](https://img.shields.io/badge/CMake-24%25-064F8C?style=for-the-badge&logo=cmake&logoColor=white)  
+![Swift](https://img.shields.io/badge/Swift-12%25-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-2%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
