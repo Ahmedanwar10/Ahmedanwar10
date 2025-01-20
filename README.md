@@ -37,10 +37,19 @@
 ![HTML](https://img.shields.io/badge/HTML-2%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
+<div style="display: flex; align-items: center; gap: 20px;">
+    <!-- الصورة -->
+    <img src="download.jpeg" alt="profile image" width="200" />
 
-<div align="center">
-    <img src="download.jpeg" width="400"/>
-    <h3>(function repeat() {<br>eat();<br>sleep();<br>code();<br>repeat();<br>})();</h3>
+    <!-- النص -->
+    <div style="color: blue; font-family: monospace; font-size: 16px;">
+        (function repeat() { <br />
+        &nbsp;&nbsp;eat(); <br />
+        &nbsp;&nbsp;sleep(); <br />
+        &nbsp;&nbsp;code(); <br />
+        &nbsp;&nbsp;repeat(); <br />
+        })();
+    </div>
 </div>
 
 
