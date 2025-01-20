@@ -2,12 +2,6 @@
 
 - 💼 **I'm a Flutter developer.**  
 - 🎓 **I'm a CS student at Zagazig University.**  
-- 🔧 **Ask me about my experience with Dart, Flutter, or anything related to mobile application development.**# Welcome to Ahmed Anwar's Profile! 👋
-
-### Always learning new things
-
-- 💼 **I'm a Flutter developer.**  
-- 🎓 **I'm a CS student at Zagazig University.**  
 - 🔧 **Ask me about my experience with Dart, Flutter, or anything related to mobile application development.**
 
 ---
@@ -41,20 +35,18 @@
 ![HTML](https://img.shields.io/badge/HTML-2%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
-<div style="display: flex; align-items: center; gap: 20px;">
-    
-<img src="download.jpeg" alt="profile image" width="200" />
 
- <div style="color: blue; font-family: monospace; font-size: 16px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+    <img src="download.jpeg" alt="profile image" width="200" />
+    <div style="color: blue; font-family: monospace; font-size: 16px;">
         (function repeat() { <br />
         &nbsp;&nbsp;eat(); <br />
         &nbsp;&nbsp;sleep(); <br />
         &nbsp;&nbsp;code(); <br />
- &nbsp;&nbsp;repeat(); <br />
- })();
+        &nbsp;&nbsp;repeat(); <br />
+        })();
+    </div>
 </div>
-</div>
-
 
 ---
 
