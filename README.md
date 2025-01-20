@@ -1,4 +1,4 @@
-### Always learning new things .....
+### Always learning new things
 
 - 💼 **I'm a Flutter developer.**  
 - 🎓 **I'm a CS student at Zagazig University.**  
@@ -9,7 +9,8 @@
 ## Connect with Me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ahmedanwar10)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-anwar10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-anwar10)  
+[![Email](https://img.shields.io/badge/Email-ahmed,anwar.rashed10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed,anwar.rashed10@gmail.com)
 
 ---
 
