@@ -39,7 +39,7 @@
 ---
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/placeholder-image" alt="profile image" width="400"/>
+    <img src="[https://user-images.githubusercontent.com/placeholder-image" alt="profile image](https://www.google.com/imgres?q=developer&imgurl=https%3A%2F%2Fcdn.prod.website-files.com%2F659f77ad8e06050cc27ed531%2F65ef63f6bd30ab838939a4ae_Developer%2520productivity%2520tools%25202024.webp&imgrefurl=https%3A%2F%2Fwww.devzero.io%2Fblog%2Fbest-developer-productivity-in-2024&docid=X1444pKUceGFyM&tbnid=uX3NJHRV8Z3wkM&vet=12ahUKEwi4v6jA54SLAxUlzwIHHcv5APwQM3oECBUQAA..i&w=1456&h=816&hcb=2&ved=2ahUKEwi4v6jA54SLAxUlzwIHHcv5APwQM3oECBUQAA)" width="400"/>
     <h3>(function repeat() {<br>eat();<br>sleep();<br>code();<br>repeat();<br>})();</h3>
 </div>
 
