@@ -38,18 +38,17 @@
 
 ---
 <div style="display: flex; align-items: center; gap: 20px;">
-    <!-- الصورة -->
-    <img src="download.jpeg" alt="profile image" width="200" />
+    
+<img src="download.jpeg" alt="profile image" width="200" />
 
-    <!-- النص -->
-    <div style="color: blue; font-family: monospace; font-size: 16px;">
+ <div style="color: blue; font-family: monospace; font-size: 16px;">
         (function repeat() { <br />
         &nbsp;&nbsp;eat(); <br />
         &nbsp;&nbsp;sleep(); <br />
         &nbsp;&nbsp;code(); <br />
-        &nbsp;&nbsp;repeat(); <br />
-        })();
-    </div>
+ &nbsp;&nbsp;repeat(); <br />
+ })();
+</div>
 </div>
 
 
