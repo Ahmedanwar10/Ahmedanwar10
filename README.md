@@ -37,24 +37,21 @@
 ![HTML](https://img.shields.io/badge/HTML-2%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
-<div style="display: flex; align-items: center; gap: 20px;">
-    
-<img src="download.jpeg" alt="profile image" width="200" />
 
- <div style="color: blue; font-family: monospace; font-size: 16px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+    <img src="download.jpeg" alt="profile image" width="200" />
+    <div style="color: #00ff00; font-family: monospace; font-size: 16px;">
         (function repeat() { <br />
         &nbsp;&nbsp;eat(); <br />
         &nbsp;&nbsp;sleep(); <br />
         &nbsp;&nbsp;code(); <br />
- &nbsp;&nbsp;repeat(); <br />
- })();
+        &nbsp;&nbsp;repeat(); <br />
+        })();
+    </div>
 </div>
-</div>
-
 
 ---
 
 ### Profile Views:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmedanwar10&color=blue&style=flat-square)
-
