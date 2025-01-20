@@ -1,14 +1,14 @@
 # Welcome to Ahmed Anwar's Profile! 👋
 
-### Always learning new things  
+### Always learning new things
 
-- 💼 I'm a Flutter developer.  
-- 🎓 I'm a CS student at Zagazig University.  
-- 🔧 Ask me about my experience with Dart, Flutter, or anything related to mobile application development.
+- 💼 **I'm a Flutter developer.**  
+- 🎓 **I'm a CS student at Zagazig University.**  
+- 🔧 **Ask me about my experience with Dart, Flutter, or anything related to mobile application development.**
 
 ---
 
-## Connect with Me :
+## Connect with Me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ahmedanwar10)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-anwar10)
@@ -35,3 +35,10 @@
 ![CMake](https://img.shields.io/badge/CMake-14%25-064F8C?style=for-the-badge&logo=cmake&logoColor=white)  
 ![Swift](https://img.shields.io/badge/Swift-2%25-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-2%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/placeholder-image" alt="code graphic" width="400"/>
+    <h3>(function repeat() {<br>eat();<br>sleep();<br>code();<br>repeat();<br>})();</h3>
+</div>
