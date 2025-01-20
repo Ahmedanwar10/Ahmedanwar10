@@ -39,6 +39,15 @@
 ---
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/placeholder-image" alt="code graphic" width="400"/>
+    <img src="https://user-images.githubusercontent.com/placeholder-image" alt="profile image" width="400"/>
     <h3>(function repeat() {<br>eat();<br>sleep();<br>code();<br>repeat();<br>})();</h3>
 </div>
+
+---
+
+---
+
+### Profile Views:
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmedanwar10&color=blue&style=flat-square)
+
